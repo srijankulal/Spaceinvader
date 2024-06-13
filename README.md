@@ -1,10 +1,10 @@
 # Space Invader Game with Hand Gestures
 
-This project is a Space Invader-style game that uses hand gestures for control. It utilizes Pygame for the game development, OpenCV for capturing video input, and MediaPipe for hand gesture recognition.
+This project is a Space Invader-style game that uses hand gestures for control. It utilizes Pygame for game development, OpenCV for capturing video input, and MediaPipe for hand gesture recognition.
 
 ## Prerequisites
 
-Before running this project, ensure you have Python installed on your system. This project was developed with Python 3.8, but it should be compatible with other Python 3 versions.
+Before running this project, please make sure you have Python installed on your system. This project was developed with Python 3.8 but should be compatible with other Python 3 versions.
 
 ## Installation
 
@@ -27,8 +27,9 @@ python main.py
 ## ***Important: "Ensure your webcam is enabled and properly configured as the game uses hand gestures for control."***
 
 ### Controls
-The game uses hand gestures detected through the webcam for control. Ensure your hand is visible to the webcam during gameplay.
+The game uses hand gestures detected through the webcam for control. Ensure your hand is visible to the webcam during gameplay.  
+**"Move your hand to the ship movement and to shoot pinch your index finger with your thumb finger."**
 
-**Enjoy the game!**
+# **Enjoy the game!**
 
 
