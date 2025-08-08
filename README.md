@@ -11,7 +11,7 @@ Before running this project, please make sure you have Python installed on your 
 ### Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Spaceinvader.git
+git clone [https://github.com/srijankulal/Spaceinvader.git
 
 ```
 ### Install the required libraries using pip:
